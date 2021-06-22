@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Sound/boom3.wav</SourceFile>
+  <SourceTime>2019-12-07T18:47:59.3908111-05:00</SourceTime>
+  <DestFile>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/bin/Windows/Sound/boom3.xnb</DestFile>
+  <DestTime>2019-12-07T18:48:22.5674165-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

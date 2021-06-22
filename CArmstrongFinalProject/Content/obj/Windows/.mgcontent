@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Fonts/menuHilightFont.spritefont</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Fonts/menuRegularFont.spritefont</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Fonts/loadingFont.spritefont</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Fonts/hudFont.spritefont</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Background/galaxy.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Background/Nebula.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Background/starsBackground.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Background/StarsBig_1PC.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Background/StarsSmall_1.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Bullets/beamBlue.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Bullets/beamRed.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Enemies/enemy0.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/HUD/hud-background.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Turrets/turretactive0.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Turrets/turretinactive0.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/explosion.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/mothership.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/HUD/shield1.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/HUD/shield2.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/HUD/health1.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/HUD/health2.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Fonts/healthFont.spritefont</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/HUD/hitIndicator.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Enemies/enemy0red.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Enemies/flame0.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Enemies/flame1.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/HUD/enemyDot.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/HUD/cameraBox.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Fonts/menuDetailFont.spritefont</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Sound/boom1.wav</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Sound/boom2.wav</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Sound/laser.wav</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Sound/cannon.wav</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Sound/menuMusic.mp3</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Sound/gameMusic.mp3</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/HUD/minimap3.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Sound/boom3.wav</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Menu/Logo.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Menu/menuBarEmpty.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Menu/menuBarFilled.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Menu/cursor0.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Menu/About.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Menu/help1.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Menu/help2.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Menu/help3.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Menu/help0.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Menu/help4.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Menu/help5.png</File>
+    <File>C:/Users/colin/Documents/Semester 1/Game Programming/Final/CArmstrongFinalProject/CArmstrongFinalProject/Content/Images/Menu/help6.png</File>
+  </SourceFiles>
+</SourceFileCollection>
