@@ -1,0 +1,12 @@
+References:
+Explosion (code and image)
+-	In class example PROG2370- "Mono Game Bouncing Ball Game" by Reaz Ahmed
+Enemy ship (image):
+-	https://gisha.itch.io/spaceships-asset-pack
+Turret (image)
+-	https://zintoki.itch.io/space-breaker
+Backgound (images)
+-	https://dinvstudio.itch.io/dynamic-space-background-lite-free
+Mothership (image)
+-	http://3.bp.blogspot.com/-J5ehBPIiuzY/U_0gTba7aYI/AAAAAAAABxo/OOc9KbfafdQ/s1600/SS1.png
+Space Empires IV (Music and Sound effects)
